@@ -3,8 +3,8 @@ import ReactDOM from "react-dom";
 import {Router, Switch, Route} from "react-router-dom";
 import { createBrowserHistory } from "history";
 import App from "./component/App";
-import Joke from "./component/Joke"
-import Header from "./component/Header"
+import Joke from "./component/Joke";
+import Header from "./component/Header";
 import "./index.css";
 
 const history = createBrowserHistory();
